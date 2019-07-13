@@ -1,44 +1,44 @@
 # Site/SEO settings
-email: okay@samesies.io
-baseurl: ""
+email: hi@sarahabell.me
+baseurl: "https://sarahabell.me/"
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
-name: Thomas Vaeth
-title: The Barber Theme
+name: Sarah Abell
+title: Sarah Abell, Artist
 description: >
-  Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
-url: http://barber.samesies.io
-twitter_username: thomasvaeth
+  Sarah's work, events and contact information
+url: https://sarahabell.me
+twitter_username: 
 default_img: /assets/images/seo.jpg
 social:
   - name: twitter
-    url: https://twitter.com/thomasvaeth
+    url: 
   - name: instagram
-    url: https://www.instagram.com/thomas.vaeth/
+    url: https://www.instagram.com/sarah_abell_ceramics/
   - name: linkedin
-    url: https://www.linkedin.com/in/thomasvaeth/
+    url: 
   - name: github
-    url: https://github.com/samesies
+    url: https://github.com/sarahabell
   - name: codepen
-    url: https://codepen.io/thomasvaeth/
+    url: 
 
 # Contact settings
 contact_img: /assets/images/placeholder-28.jpg
-formcarry: https://formcarry.com/s/HkIo0nMb7
+formcarry: 
 
 # Disqus settings
-disqus: test-apkdzgmqhj
+disqus: 
 
 # MailChimp settings
-mailchimp_action: https://samesies.us17.list-manage.com/subscribe/post-json?u=66ddf555dab480e6a8606430b&amp;id=89b3ee034f
-mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
+mailchimp_action: 
+mailchimp_input: 
 
 # Author settings
 author:
-  - name: Thomas Vaeth
-    bio: Thomas Vaeth was born in New York, raised in Pennsylvania, and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
-    url: http://thomasvaeth.com
+  - name: Sarah Abell
+    bio: Berkshire based artist
+    url: https://sarahabell.me/
 
 # Pagination settings
 pagination:
