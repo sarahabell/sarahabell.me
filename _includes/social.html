@@ -1,7 +1,10 @@
 {% if site.social %}
   <ul class="footer__social">
+    <li><a href="mailto:sarah@sarahceramics.co.uk">email</a></li>
+    |
+    &nbsp;
     {% for social in site.social %}
-      <li><a href="{{ social['url'] }}" target="_blank"><i class="fa fa-{{ social['name'] }}"></i></a></li>
+      <li><a href="{{ social['url'] }}" target="_blank">{{ social['name'] }} <i class="fa fa-{{ social['name'] }}"></i></a></li>
     {% endfor %}
   </ul>
 {% endif %}
