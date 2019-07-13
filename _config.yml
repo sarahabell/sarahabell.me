@@ -1,6 +1,6 @@
 # Site/SEO settings
 email: hi@sarahabell.me
-baseurl: "https://sarahabell.me/"
+baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
