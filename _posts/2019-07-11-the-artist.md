@@ -6,14 +6,6 @@ description: hello
 image: /assets/images/sarah.jpg
 author: Sarah Abell
 ---
-Some potting
+This is me in my studio. The pot that I am making is having clay coils added to its thrown base. When I am happy with its form, I will wrap it before leaving it to dry slowly. In a few weeks time it will be fired in my kiln to 1000°C which leaves it hard but porous. This allows the liquid glaze applied to the surface to be sucked up, leaving a layer of glaze particles ready to melt in the glaze firing.
 
-Eius ut fugiat omnis. Autem nihil dignissimos deserunt eum. In adipisci ipsum natus saepe facere. Aspernatur velit autem sed. Rerum provident non incidunt id expedita aliquam non. Eum sit saepe autem nam aut voluptatem non et.
-
-Sequi et ut consequatur et incidunt expedita provident. Iste ipsa eaque qui. Totam vitae quasi nulla aut aliquam harum. Quibusdam et deserunt possimus dolores voluptate facilis corrupti vero.
-
-Molestiae dolores sit sed ut laudantium modi enim sunt. Eos ut suscipit ab aliquid reprehenderit deleniti. Doloremque nostrum aspernatur aut id alias est ut.
-
-Aut sequi hic doloribus porro ipsa exercitationem in. Ducimus incidunt soluta veritatis sed a debitis. Nobis et expedita ipsam ipsum. Expedita quasi sit molestiae aut consequatur voluptatem optio non. Tempore quos ab qui dicta sed dolorem. Pariatur cumque nulla adipisci quo facere maiores sunt.
-
-A excepturi debitis sit. Dolor sequi voluptatem voluptas quibusdam omnis nihil. Dolor aut laudantium sunt ut consequatur id.
+The glazes which I use on my pots have been developed by me over the last decade. They mostly consist of ground up rock and metal oxides. Because ingredients of the same name can come from different places, they can vary in actual content. Thus glaze development can be a frustrating pastime and the successes all the more exciting.
