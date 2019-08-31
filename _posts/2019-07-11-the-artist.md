@@ -2,7 +2,7 @@
 layout: post
 title: "The Artist"
 date: 2019-07-13
-description: hello
+description: About the artist. Click to learn more.
 image: /assets/images/sarah.jpg
 author: Sarah Abell
 ---
