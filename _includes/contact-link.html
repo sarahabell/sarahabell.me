@@ -13,9 +13,13 @@
     {% else %} {% endif %}
   
     {% if site.data.settings.instagram %}
-      <li><a target="_blank" href="{{ site.data.settings.instagram }}"><i class="ion ion-logo-instagram"></i></a></li>
+      <li><a target="_blank" href="{{ site.data.settings.instagram }}"><i class="ion ion-logo-instagram"></i> instagram</a></li>
     {% else %} {% endif %}
-  
+
+    {% if site.data.settings.email %}
+    <li><a target="_blank" href="mailto:{{ site.data.settings.email }}"><i class="ion ion-md-mail"></i> {{site.data.settings.email}}</a></li>
+    {% else %} {% endif %}
+
     {% if site.data.settings.pinterest %}
       <li><a target="_blank" href="{{ site.data.settings.pinterest }}"><i class="ion ion-logo-pinterest"></i></a></li>
     {% else %} {% endif %}
