@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  Ceramics
 date:   2019-12-28 23:00 +000
 image:  IMG_1785.jpg
