@@ -5,6 +5,16 @@ layout: default
 
 <div class="container">
 	<div class="row">
+		{% for post in site.pages %}
+			{% if post.tags contains 'featured' %}
+				{% include article-content.html %}
+			{% endif %}
+		{% endfor %}
+	</div>
+</div>
+
+<div class="container">
+	<div class="row">
 		<div class="col col-12">
 			{% if site.posts.size > 0 %}
 				<h4 class="lates-title">Lates Posts</h4>
