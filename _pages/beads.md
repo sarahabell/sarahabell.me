@@ -6,7 +6,7 @@ tags: featured
 permalink: /beads
 description: |
     Lately I've taken my 3D design skills and applied them to making polymer beads,
-    which I then make into jewellery such as necklaces and earrings.
+    which I then make into jewellery such as necklaces and earrings. Find more about my beads and jewellery...
 ---
 
 Lately I've taken my 3D design skills and applied them to making polymer beads,

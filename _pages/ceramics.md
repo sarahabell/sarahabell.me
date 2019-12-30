@@ -5,6 +5,6 @@ image:  two-pots.jpg
 tags: featured
 permalink: /ceramics
 description: |
-    The pots I make are thrown on a wheel
+    Hand crafted & glazed. Find out more about my ceramics...
 ---
-The pots I make are thrown on a wheel
+The pots I make are thrown on a wheel and hand-built.
