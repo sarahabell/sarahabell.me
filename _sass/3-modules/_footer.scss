@@ -10,12 +10,7 @@
   }
 
   .copyright {
-    a {
-      color: $dark;
-      &:hover {
-        color: $brand-color;
-      }
-    }
+    color: $gray;
   }
 
   @media only screen and (max-width: $mobile) {
