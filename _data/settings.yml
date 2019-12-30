@@ -11,7 +11,9 @@ author:
   name: Sarah Abell
   image: 01.jpg
   say-hello: Hello, I’m <strong>Sarah Abell</strong>
-  bio: Berkshire based artist, making <strong>ceramics</strong> and <strong>beads</strong>
+  bio: |
+    Berkshire based artist, making <strong>ceramics</strong> and <strong>beads</strong>.
+    <a href="/about">Find out more about Sarah here</a>.
 
 
 #-------------------------------
