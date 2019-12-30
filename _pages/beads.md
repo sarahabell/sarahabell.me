@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Beads
-image:  IMG_2608.JPG
+image:  cane-and-beads.jpg
 tags: featured
 permalink: /beads
 ---
