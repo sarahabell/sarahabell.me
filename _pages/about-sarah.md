@@ -7,6 +7,6 @@ image: sarah.jpg
 
 Hi, my name is Sarah Abell. I'm an artist based in Berkshire, UK.
 
-I focus on ceramics and jewellery made with from my own hand-crafted beads.
+I focus on ceramics and jewellery made from my own hand-crafted beads.
 
 
