@@ -11,3 +11,11 @@ description: |
 
 Lately I've taken my 3D design skills and applied them to making polymer beads,
 which I then make into jewellery such as necklaces and earrings.
+
+Here are some selected pieces:
+
+# Red beads
+
+![necklace of red breads](/images/red-beads.jpg)
+
+A great match for a bold outfit
