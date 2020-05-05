@@ -22,3 +22,8 @@ Here are some selected pieces:
 Here are three necklaces to choose from.
 Great for cheering you up on a grey day!
 
+# Big blue wavy beads
+
+![necklace of big blue wavy beads](/images/Big-blue-wavy.jpg)
+
+Big bold beads to make a statement!
