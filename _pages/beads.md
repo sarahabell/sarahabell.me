@@ -27,3 +27,10 @@ Great for cheering you up on a grey day!
 ![necklace of big blue wavy beads](/images/Big-blue-wavy.jpg)
 
 Big bold beads to make a statement!
+
+# Bracelet
+
+![redwhiteblue bracelet](/images/Bracelet.jpg)
+
+Here is one of my bracelets.
+
