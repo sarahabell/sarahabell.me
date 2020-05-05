@@ -1,5 +1,5 @@
 Here is one of my bracelets:
 
-# bracelet3.jpg
+# bracelet.jpg
 
 ![bracelet of red and blue beads](/images/bracelet3.jpg)
