@@ -10,3 +10,10 @@ description: |
 The pots I make are thrown on a wheel or hand-built, sometimes a combination of both.
 
 I love to make a glaze which will move on the pot while maturing in the kiln. The difficulty is controlling the movement so that the glaze doesn't move off the pot and finish up sticking the pot to the kiln shelf!
+
+# Geometric Vases
+
+![geometric vases](/images/Geometric-Vases.JPG)
+
+These vases were built up from pieces of rolled out stoneware clay.
+The glaze was developed by me in my ceramic studio.
