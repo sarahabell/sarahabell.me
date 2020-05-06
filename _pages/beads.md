@@ -20,16 +20,25 @@ Here are some selected pieces:
 ![necklace of big blue wavy beads](/images/Big-blue-wavy.jpg)
 
 Big bold beads to make a statement!
+Here's another example
 
 # Night Sky Necklace
 
 ![night sky necklace](/images/Night-Sky-Necklace.JPG)
 
 Starry skies with golden clouds?
+Now for a bracelet
 
 # Bracelet
 
 ![redwhiteblue bracelet](/images/Bracelet.jpg)
 
-Here is one of my bracelets.
+Made on memory wire, this bracelet doesn't need a fastening. It just bounces back to its original shape when you put it on. Perfect colours for being patriotic!
+Now for some earrings
+
+# Peacocktail Earrings
+
+![peacock tail earrings](/images/Peacock-Tails-Earrings.JPG)
+
+These have necklace and bracelet to make the set.
 
