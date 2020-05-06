@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Beads
-image:  cane-and-beads.jpg
+image:  Turquoise-and-Red-Necklaces.jpg
 tags: featured
 permalink: /beads
 description: |
