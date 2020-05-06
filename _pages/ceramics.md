@@ -23,3 +23,9 @@ The glaze was developed by me in my ceramic studio.
 ![blue green vase](/images/Blue-Green-Vase.jpg)
 
 This tall hand built vase has a studio developed blue glaze which has some attractive green flecks. These appear on the area which was in the hottest part of the kiln - 1250º. 
+
+# Wheel Thrown Bowl
+
+![Bowl blue glaze](/images/Bowl-blue-glaze.jpg)
+
+This wheel thrown bowl has a white glaze making a pattern over the shiny blue glaze. The textured brick coloured area at the base is clay from our garden. The texture comes from heating it beyond its comfort zone!
