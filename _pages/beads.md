@@ -15,18 +15,17 @@ My jewellery includes necklaces, pendants, bracelets and earrings. I use a varie
 
 Here are some selected pieces:
 
-# Red beads
-
-![necklace of red breads](/images/red-beads.jpg)
-
-Here are three necklaces to choose from.
-Great for cheering you up on a grey day!
-
 # Big blue wavy beads
 
 ![necklace of big blue wavy beads](/images/Big-blue-wavy.jpg)
 
 Big bold beads to make a statement!
+
+# Night Sky Necklace
+
+![night sky necklace](/images/Night-Sky-Necklace.JPG)
+
+Starry skies with golden clouds?
 
 # Bracelet
 
