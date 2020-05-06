@@ -17,3 +17,9 @@ I love to make a glaze which will move on the pot while maturing in the kiln. Th
 
 These vases were built up from pieces of rolled out stoneware clay.
 The glaze was developed by me in my ceramic studio.
+
+# Blue Green Vase
+
+![blue green vase](/images/Blue-Green-Vase.jpg)
+
+This tall hand built vase has a studio developed blue glaze which has some attractive green flecks. These appear on the area which was in the hottest part of the kiln - 1250º. 
