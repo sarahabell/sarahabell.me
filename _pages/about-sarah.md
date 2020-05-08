@@ -19,9 +19,10 @@ I make ceramics from stoneware clay and enhance them with glazes developed in my
 
 •	Artist in Wokingham Arts Trail - 2011-2018 
 
-•	Member of West Forest Potters Guild. www.westforestpotters.org.uk
+•	Member of West Forest Potters Guild www.westforestpotters.org.uk
 
-•	Member of Wokingham Art Society. www.wokinghamartsociety.org.uk
+•	Member of Wokingham Art Society www.wokinghamartsociety.org.uk
+
 
 # Previous Exhibitions
 
