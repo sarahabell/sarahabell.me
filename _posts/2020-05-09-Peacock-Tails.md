@@ -6,3 +6,6 @@ image:  Peacock-Tails-Necklace.JPG
 description: This necklace matches the earrings on shown elsewhere on my site!
 ---
 Here is the bracelet to finish the set.
+
+![peacocktails bracelet](/images/Peacock-Tails-Bracelet.jpg)
+
