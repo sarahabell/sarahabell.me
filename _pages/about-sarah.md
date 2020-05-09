@@ -11,7 +11,7 @@ I make ceramics from stoneware clay and enhance them with glazes developed in my
 
  I also make jewellery from my own hand-crafted polymerclay beads.
 
-## My C V
+### My C V
 
 •	Maker of glazed, ceramic pots and polymerclay beads and jewellery.
 
@@ -24,7 +24,7 @@ I make ceramics from stoneware clay and enhance them with glazes developed in my
 •	Member of Wokingham Art Society [wokinghamartsociety.org.uk](https://wokinghamartsociety.org.uk/)
 
 
-### Previous Exhibitions
+#### Previous Exhibitions
 
 Wokingham Arts Society Exhibition, where my pots have won the Ceramic Prize for the past six years.
 
