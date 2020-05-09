@@ -9,7 +9,9 @@ Hi, my name is Sarah Abell. I'm an artist based in Berkshire, UK.
 
 I make ceramics from stoneware clay and enhance them with glazes developed in my studio.
 
- I also make jewellery from my own hand-crafted polymerclay beads.
+I also make jewellery from my own hand-crafted polymerclay beads.
+
+Please email me if you would like more information or to visit my studio.
 
 ### My C V
 
