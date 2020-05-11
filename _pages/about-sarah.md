@@ -11,7 +11,7 @@ I make ceramics from stoneware clay and enhance them with glazes developed in my
 
 I also make jewellery from my own hand-crafted polymerclay beads.
 
-Please email me if you would like more information or to visit my studio.
+Please email for [more information](sarah@sarahceramics.co.uk) or if you would like to visit my Wokingham studio. 
 
 ### My C V
 
