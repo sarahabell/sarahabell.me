@@ -9,3 +9,10 @@ Here is the bracelet to finish the set.
 
 ![peacocktails bracelet](/images/Peacock-Tails-Bracelet.jpg)
 
+---
+layout: post
+title:  Necklace and Earrings
+date:   2020-05-16 19:03 +00h
+image:  Clares-Teal.jpg
+description: I have made the colour and size of these to please one of my valued customers.
+---
