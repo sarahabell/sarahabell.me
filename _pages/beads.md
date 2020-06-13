@@ -11,7 +11,8 @@ description: |
     Find more about my beads and jewellery...
 ---
 
-Polymer clay comes in an exciting range of colours which after kneading can be blended or manipulated into new and fascinating colours and patterns. Swirls, stripes and gradual changes in colour are but a few of the possibilities which I have experimented with so far. My beads are made in various sizes and shapes. The beads are baked in a domestic oven before being used as the key feature in my jewellery designs.
+Polymer clay comes in an exciting range of colours which after kneading can be blended or manipulated into new and fascinating colours and patterns. I love making new and different canes. Having put all the colours together and squished it into more of a sausage (cane), the fun bit is cutting it across the middle to see what the pattern looks like!
+My beads are made in various sizes and shapes. The beads are baked in a domestic oven before being used as the key feature in my jewellery designs.
 
 My jewellery includes necklaces, pendants, bracelets and earrings. I use a variety of bought materials for stringing, fastenings and little beads to separate my hand made beads. I use sterling silver for all my earwires and will also use it for fastenings if requested.
 
