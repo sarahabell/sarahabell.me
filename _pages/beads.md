@@ -43,5 +43,5 @@ Now for some earrings
 
 ![peacock tail earrings](/images/Peacock-Tails-Earrings.JPG)
 
-You found them! These have necklace and bracelet to make the set.
+These have necklace and bracelet to make the set.
 
