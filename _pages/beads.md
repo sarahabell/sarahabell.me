@@ -38,6 +38,8 @@ Now for a bracelet
 
 Made on memory wire, this bracelet doesn't need a fastening. It just bounces back to its original shape when you put it on. Perfect colours for being patriotic!
 
+For those of you who like a matching set, here are three of a kind
+
 # Peacocktail Jewellery
 
 ![peacock tail necklace](/images/Peacock-Tails-Necklace.JPG)
@@ -45,6 +47,15 @@ Made on memory wire, this bracelet doesn't need a fastening. It just bounces bac
 ![peacock tail bracelet](/images/Peacock-Tails-Bracelet.jpg)
 
 ![peacock tail earrings](/images/Peacock-Tails-Earrings.JPG)
+
+Necklace, Bracelet and Earrings in peacock and graphite colours with a subtle sparkle
+
+# Blue Pendant
+
+![blue pendant](/images/Blue-Pendant.jpg)
+
+Brighten up an outfit with this lively pendant. 
+Chain measures 29.5" (75cm) approx.
 
 
 
