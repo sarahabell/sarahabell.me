@@ -38,9 +38,13 @@ Now for a bracelet
 
 Made on memory wire, this bracelet doesn't need a fastening. It just bounces back to its original shape when you put it on. Perfect colours for being patriotic!
 
-# Peacocktail Earrings
+# Peacocktail Jewellery
+
+![peacock tail necklace](/images/Peacock-Tails-Necklace.JPG)
+
+![peacock tail bracelet](/images/Peacock-Tails-Bracelet.jpg)
 
 ![peacock tail earrings](/images/Peacock-Tails-Earrings.JPG)
 
-These have necklace and bracelet to make the set.
+
 
