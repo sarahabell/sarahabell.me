@@ -37,7 +37,6 @@ Now for a bracelet
 ![redwhiteblue bracelet](/images/Bracelet.jpg)
 
 Made on memory wire, this bracelet doesn't need a fastening. It just bounces back to its original shape when you put it on. Perfect colours for being patriotic!
-Now for some earrings
 
 # Peacocktail Earrings
 
