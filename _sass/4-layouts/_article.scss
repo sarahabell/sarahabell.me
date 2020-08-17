@@ -44,7 +44,7 @@
     .article__title {
       margin-bottom: 20px;
       font-size: 30px;
-      
+
       a {
         color: $dark;
         &:hover {
@@ -73,15 +73,13 @@
       .read-more {
         margin-left: auto;
         padding-bottom: 5px;
-        font-size: 12px;
+        font-size: 17px;
         line-height: 18px;
         letter-spacing: 1px;
-        text-transform: uppercase;
         border-bottom: 1px solid transparent;
-        color: $dark;
+        color: $link-color;
         &:hover {
-          color: $dark;
-          border-color: $brand-color;
+          color: $link-color-hover;
         }
       }
     }

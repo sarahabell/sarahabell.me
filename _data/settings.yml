@@ -13,7 +13,7 @@ author:
   say-hello: Hello, I’m <strong>Sarah Abell</strong>
   bio: |
     A Berkshire-based artist, making ceramics and beads. For more details or prices of pieces, please contact me. <br>
-    <a href="/about">Find out more about Sarah here</a>
+    <a href="/about">Find out more about Sarah here <i class="ion ion-ios-arrow-forward"></i></a>
 
 
 #-------------------------------
