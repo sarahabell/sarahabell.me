@@ -9,7 +9,7 @@ Hi, my name is **Sarah Abell**. I'm an artist based in Berkshire, UK.
 
 I make **ceramics** from stoneware clay and enhance them with **glazes developed in my studio**. I also make **jewellery** from my own **hand-crafted polymerclay beads**.
 
-For more information, or if you would like to **visit my Wokingham studio** please [email me](mailto:sarah@sarahceramics.co.uk)
+For more information, or if you would like to **visit my Wokingham studio** please [email me](mailto:abellse@yahoo.co.uk)
 
 ### C.V.
 
