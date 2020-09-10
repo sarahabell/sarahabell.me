@@ -23,14 +23,19 @@ Here are some selected pieces:
 ![necklace of big blue wavy beads](/images/Big-blue-wavy.jpg)
 
 Big bold beads to make a statement!
-Here's another example
+Here's another necklace of my handmade beads
 
 # Night Sky Necklace
 
 ![night sky necklace](/images/Night-Sky-Necklace.JPG)
 
 Starry skies with golden clouds?
-Now for a bracelet
+
+# Purple Swirl Beads
+
+![necklace of purple swirl beads](/images/Purple-Swirl.jpg)
+
+Now here's a Bracelet
 
 # Bracelet
 
