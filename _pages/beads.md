@@ -23,6 +23,7 @@ Here are some selected pieces:
 ![necklace of big blue wavy beads](/images/Big-blue-wavy.jpg)
 
 Big bold beads to make a statement!
+
 Here's another necklace of my handmade beads
 
 # Night Sky Necklace
