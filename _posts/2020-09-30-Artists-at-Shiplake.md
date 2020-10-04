@@ -32,3 +32,7 @@ Sarah will be there with her ceramics and beads.
 Please do come and visit me and my eight fellow artists. 
 
 See you there!
+
+## Directions
+
+* [Directions in google maps](https://goo.gl/maps/JBmPfXMcrqMnUiBm6)
