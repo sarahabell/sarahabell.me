@@ -8,6 +8,7 @@ redirect_from:
   - /shiplake/
 ---
 
+## About the show
 
 > "Artists at Shiplake are back!
 >
@@ -25,14 +26,17 @@ redirect_from:
 
 To find out more visit and like the [Artists at Shiplake Facebook page](https://www.facebook.com/artistsatshiplake)
 
-How about a bit of early Christmas shopping? 🎄🎅
+## Sarah at the show
 
 Sarah will be there with her ceramics and beads. 
 
 Please do come and visit me and my eight fellow artists. 
 
-See you there!
+How about a bit of early Christmas shopping? 🎄🎅
 
 ## Directions
 
 * [Directions in google maps](https://goo.gl/maps/JBmPfXMcrqMnUiBm6)
+
+See you there!
+
