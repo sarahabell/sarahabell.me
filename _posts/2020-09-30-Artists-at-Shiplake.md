@@ -10,27 +10,25 @@ redirect_from:
 
 ## About the show
 
-> "Artists at Shiplake are back!
+> "Artists at Shiplake are back - THIS WEEKEND - 10th and 11th October 2020
 >
-> We will be at the Church Rooms in Shiplake on the 10th and 11th October 2020.
+> Come and say hello at the Church Rooms in Shiplake - see directions below
 >
-> Showing their work will be Maria Meerstadt, Sarah Pye, Roseanna Chetwood, Kate Findlay, Caroline Gatfield, Dana Kidson, **Sarah Abell** and Helen Ormerod.
+> There will be paintings, ceramics, jewellery and more, all created by Maria Meerstadt, Sarah Pye, Roseanna Chetwood, Kate Findlay, Caroline Gatfield, Dana Kidson, **Sarah Abell** and Helen Ormerod.
 >
 > A wonderful colourful show with plenty for everyone!
 >
-> Come and say hello - we really missed you all in May.
+> We are making up for missing out in May by being one of five 'live' events.
 >
-> All recommended safety guidelines will be adhered to."
+> All recommended safety guidelines will be adhered to.
 >
-> ~ <https://www.facebook.com/artistsatshiplake/posts/1236506886689260>
-
 To find out more visit and like the [Artists at Shiplake Facebook page](https://www.facebook.com/artistsatshiplake)
 
 ## Sarah at the show
 
-Sarah will be there with her ceramics and beads. 
+Sarah will be there throughout, showing her ceramics and polymerclay bead jewellery. 
 
-Please do come and visit me and my eight fellow artists. 
+I am hoping to show new ceramics straight out of my kiln.
 
 How about a bit of early Christmas shopping? 🎄🎅
 
