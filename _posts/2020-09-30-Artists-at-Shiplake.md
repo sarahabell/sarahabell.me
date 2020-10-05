@@ -3,7 +3,7 @@ layout: post
 title:  Artists at Shiplake
 date:   2020-09-30 12:30 +00h
 image:  Shiplake-flyer.jpg
-description: **THIS WEEKEND**A chance to meet me and my ceramics and beads.  
+description: THIS WEEKEND A chance to meet me and my ceramics and beads.  
 redirect_from:
   - /shiplake/
 ---
