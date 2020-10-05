@@ -10,7 +10,7 @@ redirect_from:
 
 ## About the show
 
-> "Artists at Shiplake are back - THIS WEEKEND - 10th and 11th October 2020
+> "Artists at Shiplake are back - **THIS WEEKEND** - 10th and 11th October 2020
 >
 > Come and say hello at the Church Rooms in Shiplake - see directions below
 >
@@ -26,7 +26,7 @@ To find out more visit and like the [Artists at Shiplake Facebook page](https://
 
 ## Sarah at the show
 
-Sarah will be there throughout, showing her ceramics and polymerclay bead jewellery. 
+I will be there throughout, showing my ceramics and polymerclay bead jewellery. 
 
 I am hoping to show new ceramics straight out of my kiln.
 
