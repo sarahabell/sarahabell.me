@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Artists at Shiplake
-date:   2020-09-30 12:30 +00h
+date:   2020-10-14 16:30 +00h
 image:  My-Display.jpg
 description: It's over till next time!  
 
