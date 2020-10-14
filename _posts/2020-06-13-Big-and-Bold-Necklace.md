@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  Big and Bold Necklace
-date:   2020-06-13 16:00 +00h
-image:  Big-Swirls.jpg
-description: Polymer clay beads. Find out more about this lovely unique piece...
+title:  Glazed Stoneware Mugs
+date:   2020-10-14 16:45 +00h
+image:  Two-Mugs.jpg
+description: My glazes enhancing my mugs! Find out more about these lovely unique pieces...
 ---
-Big beads with bold patterns and colours. This is a statement piece in shades of purple, pink and graphite, with a silver plated lobster clasp.
+Thrown mugs with pulled handles, glazed with my studio developed glazes. On the left hand one, the mauve glaze has reacted with the other two glazes to give the lovely turquoise and royal blue areas. The right hand mug has slip (wet clay) under a white glaze.
 
-This necklace was sold at 'Art at The Herb Farm'.
+My mugs are machine washable.
