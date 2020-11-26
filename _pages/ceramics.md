@@ -20,7 +20,7 @@ These all look pleasingly good on first impression.
 Glaze firing temperature rises slowly to 1250º and takes a day to cool down again.
 Patience is required and disappointments are frequent!
 
-# I Love My Mugs
+# I Love Making Mugs
 
 ![three mugs](/images/Three-Mugs.jpg)
 
