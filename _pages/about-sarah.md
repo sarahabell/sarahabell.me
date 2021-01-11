@@ -2,14 +2,14 @@
 layout: page
 title: About Sarah
 permalink: /about/
-image: sarah.jpg
+image: Me-throwing.jpg
 ---
 
 Hi, my name is **Sarah Abell**. I'm an artist based in Berkshire, UK.
 
 I make **ceramics** from stoneware clay and enhance them with **glazes developed in my studio**. I also make **jewellery** from my own **hand-crafted polymerclay beads**.
 
-For more information, or if you would like to **visit my Wokingham studio** please [email me](mailto:sarah_abell_me+w@outlook.com)
+For more information, or if you would like to **visit my Wokingham studio** please [email me](mailto:sarahabellme@outlook.com)
 
 ### C.V.
 
