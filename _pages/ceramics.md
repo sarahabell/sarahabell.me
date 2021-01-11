@@ -36,7 +36,7 @@ The glaze was developed by me in my ceramic studio.
 
 ![blue green vase](/images/Blue-Green-Vase.jpg)
 
-This tall hand built vase has a studio developed blue glaze which has some attractive green flecks. These appear on the area which was in the hottest part of the kiln - 1250º. 
+This tall hand built vase has a studio developed blue glaze which has some attractive green flecks. These appear on the area which was in the hottest part of the kiln. 
 
 # Wheel Thrown Bowl
 
