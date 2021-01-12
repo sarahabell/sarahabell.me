@@ -18,35 +18,30 @@ My jewellery includes necklaces, pendants, bracelets and earrings. I use a varie
 
 Here are some selected pieces:
 
-# Big blue wavy beads
+# Wavy Blue Necklace
 
-![necklace of big blue wavy beads](/images/Big-blue-wavy.jpg)
-
-Big bold beads to make a statement!
-
-Here's another necklace of my handmade beads
+![necklace of blue wavy beads](/images/Big-blue-wavy.jpg)
 
 # Night Sky Necklace
 
-![night sky necklace](/images/Night-Sky-Necklace.JPG)
-
 Starry skies with golden clouds?
+
+![night sky necklace](/images/Night-Sky-Necklace.JPG)
 
 # Purple Swirl Beads
 
 ![necklace of purple swirl beads](/images/Purple-Swirl.jpg)
 
-Now here's a Bracelet
-
 # Bracelet
+
+Made on memory wire, this bracelet doesn't need a fastening. It just bounces back to its original shape when you put it on.
 
 ![redwhiteblue bracelet](/images/Bracelet.jpg)
 
-Made on memory wire, this bracelet doesn't need a fastening. It just bounces back to its original shape when you put it on. Perfect colours for being patriotic!
-
-For those of you who like a matching set, here are three of a kind
-
 # Peacocktail Jewellery
+
+For those of you who like a matching set, here are three of a kind.
+Necklace, Bracelet and Earrings in peacock and graphite colours with a subtle sparkle
 
 ![peacock tail necklace](/images/Peacock-Tails-Necklace.JPG)
 
@@ -54,14 +49,9 @@ For those of you who like a matching set, here are three of a kind
 
 ![peacock tail earrings](/images/Peacock-Tails-Earrings.JPG)
 
-Necklace, Bracelet and Earrings in peacock and graphite colours with a subtle sparkle
-
 # Blue Pendant
-
-![blue pendant](/images/Blue-Pendant.jpg)
 
 Brighten up an outfit with this lively pendant. 
 Chain measures 29.5" (75cm) approx.
 
-
-
+![blue pendant](/images/Blue-Pendant.jpg)
