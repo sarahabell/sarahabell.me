@@ -9,7 +9,7 @@ description: It's over till next time!
 
 ## About the show
 
->Artists at Shiplake were on show - and hope to be **back in May 2021** with the next Henley Arts Trail.
+>Artists at Shiplake were on show - and hope to be **back in July 2021** with the next Henley Arts Trail.
 >
 >Thank you to all the lovely people who came and enjoyed our unique and original works of art. 
 >
