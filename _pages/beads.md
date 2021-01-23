@@ -20,7 +20,7 @@ Here are some selected pieces:
 
 # Wavy Blue Necklace
 
-![necklace of blue wavy beads](/images/Big-blue-wavy.jpg)
+![necklace of blue wavy beads](/images/Blue-Wavy.jpg)
 
 # Night Sky Necklace
 
@@ -36,7 +36,7 @@ Starry skies with golden clouds?
 
 Made on memory wire, this bracelet doesn't need a fastening. It just bounces back to its original shape when you put it on.
 
-![redwhiteblue bracelet](/images/Bracelet.jpg)
+![allsorts bracelet](/images/Allsorts-Bracelet.jpg)
 
 # Peacocktail Jewellery
 
