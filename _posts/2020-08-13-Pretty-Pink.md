@@ -9,12 +9,3 @@ The necklaces, both with magnetic clasps, are 16.5" and 18" (41cms and 46.5cms)a
 
 ![pink flowers close up](/images/Pink-Flowers-CloseUp.jpg)
 
----
-layout: post
-title:  Yummy Beads
-date:   2021-01-23 12:30 +00h
-image:  Fuchsia-Cube-Set.jpg
-description: Not for Eating! 
----
-
-
