@@ -11,6 +11,14 @@ For more information, or if you would like to **visit my Wokingham studio** plea
 
 I make **ceramics** from stoneware clay and enhance them with **glazes developed in my studio**. I also make **jewellery** from my own **hand-crafted polymerclay beads**.
 
+# My Kiln and I
+
+I have just opened the door of my kiln to see what lies inside.
+Glaze firing temperature rises slowly to 1250º and takes a day to cool down again.
+Patience is required and disappointments are frequent!
+
+![kiln and me](/images/My-Kiln-and-I.jpg)
+
 ### C.V.
 
 *	Maker of glazed ceramics and polymerclay bead jewellery.
