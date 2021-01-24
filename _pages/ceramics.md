@@ -17,16 +17,20 @@ Making glazes and applying to my pots leaves a lot of washing up!
 
 ![washing up](/images/Washing-Up.jpg)
 
-# I Love Making Mugs
+# My Glazes Enhancing My Mugs!
+
+Thrown mugs with pulled handles, glazed with my studio developed glazes. On some, the mauve glaze has reacted with the other two glazes to give the lovely turquoise and royal blue areas.
+
+![two mugs](/images/Two-Mugs.jpg)
 
 ![three mugs](/images/Mug-Group.jpg)
 
-![two mugs](/images/New-Mugs.jpg)
+![new mugs](/images/New-Mugs.jpg)
 
 # Geometric Vases
 
 These vases were built up from pieces of rolled out stoneware clay.
-The blue glaze was developed by me over many years of experimenting.
+The blue glaze was developed by me over many years.
 
 ![geometric vases](/images/Geometric-Vases.JPG)
 
