@@ -7,20 +7,20 @@ image: Me-throwing.jpg
 
 Hi, my name is **Sarah Abell**. I'm an artist based in Berkshire, UK.
 
-I make **ceramics** from stoneware clay and enhance them with **glazes developed in my studio**. I also make **jewellery** from my own **hand-crafted polymerclay beads**.
-
 For more information, or if you would like to **visit my Wokingham studio** please [email me](mailto:sarahabellme@outlook.com)
+
+I make **ceramics** from stoneware clay and enhance them with **glazes developed in my studio**. I also make **jewellery** from my own **hand-crafted polymerclay beads**.
 
 ### C.V.
 
-*	Maker of glazed, ceramic pots and polymerclay beads and jewellery.
+*	Maker of glazed ceramics and polymerclay bead jewellery.
 *	BA (Hons) Three Dimensional Design: Ceramics. University for the Creative Arts, Farnham
 *	Artist in Wokingham Arts Trail - 2011-2018
 *	Member of West Forest Potters Guild [westforestpotters.org.uk](http://westforestpotters.org.uk/)
 *	Member of Wokingham Art Society [wokinghamartsociety.org.uk](https://wokinghamartsociety.org.uk/)
 
 
-#### Exhibitions
+#### Past Exhibitions
 
 * Wokingham Arts Society Exhibition, where my pots have won the Ceramic Prize for the past six years.
 * Art at the Herb Farm, Sonning Common
