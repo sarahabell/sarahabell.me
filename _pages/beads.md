@@ -48,6 +48,12 @@ Made on memory wire, this bracelet doesn't need a fastening. It just bounces bac
 
 ![allsorts bracelet](/images/Allsorts-Bracelet.jpg)
 
+# Subtle Sparkles
+
+Polymer clay beads to enjoy wearing anytime!
+
+![subtle sparkles](/images/Subtle-Sparkle.jpg)
+
 # Peacocktail Jewellery
 
 For those of you who like a matching set, here are three of a kind.
