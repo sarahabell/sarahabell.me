@@ -21,11 +21,11 @@ Making glazes and applying to my pots leaves a lot of washing up!
 
 Thrown mugs with pulled handles, glazed with my studio developed glazes. On some, the mauve glaze has reacted with the other two glazes to give the lovely turquoise and royal blue areas.
 
+![new mugs](/images/New-Mugs.jpg)
+
 ![two mugs](/images/Two-Mugs.jpg)
 
 ![three mugs](/images/Mug-Group.jpg)
-
-![new mugs](/images/New-Mugs.jpg)
 
 # Geometric Vases
 
