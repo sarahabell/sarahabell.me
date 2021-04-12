@@ -11,12 +11,6 @@ The pots I make are thrown on a wheel or hand-built, sometimes a combination of 
 
 I love to make a glaze which will move on the pot while maturing in the kiln. The difficulty is controlling the movement so that the glaze doesn't move off the pot and finish up sticking the pot to the kiln shelf!
 
-# Washing Up
-
-Making glazes and applying to my pots leaves a lot of washing up!
-
-![washing up](/images/Washing-Up.jpg)
-
 # My Glazes Enhancing My Mugs!
 
 Thrown mugs with pulled handles, glazed with my studio developed glazes. On some, the mauve glaze has reacted with the other two glazes to give the lovely turquoise and royal blue areas.
@@ -47,3 +41,10 @@ This bowl has a white glaze making a pattern over the shiny blue glaze.
 The textured brick coloured area at the base is clay from our garden. The texture comes from heating it beyond its comfort zone!
 
 ![Bowl blue glaze](/images/Bowl-blue-glaze.jpg)
+
+# Washing Up
+
+Making glazes and applying to my pots leaves a lot of washing up!
+
+![washing up](/images/Washing-Up.jpg)
+
