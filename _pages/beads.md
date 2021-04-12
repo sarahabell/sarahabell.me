@@ -32,11 +32,9 @@ The necklaces, both with magnetic clasps, are 16.5" and 18" (41cms and 46.5cms)a
 
 ![pink flowers close up](/images/Pink-Flowers-CloseUp.jpg)
 
-# Night Sky Necklace
+# Elastic Bracelets
 
-Starry skies with golden clouds?
-
-![night sky necklace](/images/Night-Sky-Necklace.JPG)
+![elastic bracelets](/images/Elastic-Bracelets.jpg)
 
 # Purple Swirl Beads
 
