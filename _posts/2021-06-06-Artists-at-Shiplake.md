@@ -2,7 +2,7 @@
 layout: post
 title:  Artists at Shiplake
 date:   2021-06-06 10:30 +00h
-image:  My-Display.jpg
+image:  Textured-pots.jpg
 description: July 10th/11th and 17th/18th, 2021!  
 
 ---
