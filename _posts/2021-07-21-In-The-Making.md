@@ -2,8 +2,8 @@
 layout: post
 title:  In The Making
 date:   2021-07-21 16:30 +00h
-image:  My-Stand-HAT.jpg
-description: Over for another year!
+image:  Necklace-Making.jpg
+description: Using my handmade beads!
 
 ---
 
