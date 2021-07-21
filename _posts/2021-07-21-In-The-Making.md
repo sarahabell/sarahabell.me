@@ -11,3 +11,4 @@ description: Using my handmade beads!
 
 Choosing which beads to use is fun. Trying out different combinations.
 
+![box of beads](/images/Box-of-Beads.JPG)
