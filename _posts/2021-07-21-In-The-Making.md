@@ -7,15 +7,8 @@ description: Using my handmade beads!
 
 ---
 
-## About the show
+## First I Make the Beads, then I make the Jewellery
 
-If you have missed this Art Trail, look out for others. You will be most welcome!
+image: Box-of-Beads.JPG
 
-Henley Arts Trail venues were open in July, 2021
-
-Artists at Shiplake were at Shiplake Church Rooms, Reading Road, Shiplake. RG9 4BS
-
-**Open 10 am - 5 pm**.
-
->Beautiful original art, jewellery, ceramics, and glass.
->Entrance was free. 
+Choosing which beads to use is fun. Trying out different combinations.
