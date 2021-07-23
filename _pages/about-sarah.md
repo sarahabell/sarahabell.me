@@ -19,6 +19,15 @@ Patience is required and disappointments are frequent!
 
 ![kiln and me](/images/My-Kiln-and-I.jpg)
 
+# Cliffs
+
+This is a picture made of polymer clay.
+It appeared out of my pasta machine while I was creating a pattern for some beads.
+I liked it enough to frame it and hang it in my studio. Serendipity!
+
+![cliffs](/images/Cliffs.jpg)
+
+
 ### C.V.
 
 *	Maker of glazed ceramics and polymerclay bead jewellery.
@@ -30,10 +39,10 @@ Patience is required and disappointments are frequent!
 
 #### Past Exhibitions
 
-* Wokingham Arts Society Exhibition, where my pots have won the Ceramic Prize for the past six years.
-* Art at the Herb Farm, Sonning Common
-* Hurst Show and Country Fair Art Show
 * Artists at Shiplake, Henley Arts Trail
+* Art at the Herb Farm, Sonning Common
+* Wokingham Arts Society Exhibition, where my pots have won the Ceramic Prize for the past six years.
+* Hurst Show and Country Fair Art Show
 * Southhill Park's Craft & Design Fair
 * Norden Farm Centre for the Arts in Maidenhead
 * Wokingham Arts Trail annually from 2011-18
