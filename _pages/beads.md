@@ -46,11 +46,11 @@ Made on memory wire, this bracelet doesn't need a fastening. It just bounces bac
 
 ![allsorts bracelet](/images/Allsorts-Bracelet.jpg)
 
-# Subtle Sparkles
+# Different Styles
 
 Polymer clay beads to enjoy wearing anytime!
 
-![subtle sparkles](/images/Subtle-Sparkle.jpg)
+![three necklaces](/images/Three-Necklaces.jpg)
 
 # Fuchsia Cube Jewellery
 
