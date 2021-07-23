@@ -32,9 +32,9 @@ The necklaces, both with magnetic clasps, are 16.5" and 18" (41cms and 46.5cms)a
 
 ![pink flowers close up](/images/Pink-Flowers-CloseUp.jpg)
 
-# Elastic Bracelets
+# Choice of Earrings
 
-![elastic bracelets](/images/Elastic-Bracelets.jpg)
+![earring stand](/images/Earring-Stand.jpg)
 
 # Purple Swirl Beads
 
@@ -52,16 +52,12 @@ Polymer clay beads to enjoy wearing anytime!
 
 ![subtle sparkles](/images/Subtle-Sparkle.jpg)
 
-# Peacocktail Jewellery
+# Fuchsia Cube Jewellery
 
-For those of you who like a matching set, here are three of a kind.
-Necklace, Bracelet and Earrings in peacock and graphite colours with a subtle sparkle
+For those of you who like a matching set, here are two of a kind.
+Necklace and Bracelet to wear together for maximum impact!
 
-![peacock tail necklace](/images/Peacock-Tails-Necklace.JPG)
-
-![peacock tail bracelet](/images/Peacock-Tails-Bracelet.jpg)
-
-![peacock tail earrings](/images/Peacock-Tails-Earrings.JPG)
+![fuchsia cube set](/images/Fuchsia-Cube-Set.jpg)
 
 # Blue Pendant
 
