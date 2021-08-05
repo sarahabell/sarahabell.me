@@ -9,6 +9,8 @@ description: Using my handmade beads!
 
 ## First I Make the Beads, then I make the Jewellery!
 
-Choosing which beads to use is fun. Trying out different combinations.
+Creating attractive jewellery from my beads is very satisfying.
+
+Designing a piece and seeing it being worn by a happy customer is most rewarding.
 
 ![box of beads](/images/Box-of-Beads.JPG)
