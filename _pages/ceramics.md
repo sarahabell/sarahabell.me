@@ -9,17 +9,25 @@ description: |
 ---
 The pots I make are thrown on a wheel or hand-built, sometimes a combination of both.
 
-I love to make a glaze which will move on the pot while maturing in the kiln. The difficulty is controlling the movement so that the glaze doesn't move off the pot and finish up sticking the pot to the kiln shelf!
+I love to make a glaze which will move on the pot while maturing in the kiln. The difficulty is controlling the movement so that the glaze doesn't move off the pot and finish up sticking the pot to the kiln shelf. Opening the door after completing a firing is nerve wracking.
+
+# Opening the door
+
+![pots in kiln](/images/Kiln-Open.jpg)
+
+# My Little Jars
+
+Here are three jars with my blue-green glaze
+
+![three jars](/images/Blue-Jars.jpg)
 
 # My Glazes Enhancing My Mugs!
 
 Thrown mugs with pulled handles, glazed with my studio developed glazes. On some, the mauve glaze has reacted with the other two glazes to give the lovely turquoise and royal blue areas.
 
-![new mugs](/images/New-Mugs.jpg)
+![three mugs](/images/Three-Mugs.jpg)
 
-![two mugs](/images/Two-Mugs.jpg)
-
-![three mugs](/images/Mug-Group.jpg)
+![mugs with flowers](/images/Mugs-Flowers.jpg)
 
 # Geometric Vases
 
