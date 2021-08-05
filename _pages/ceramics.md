@@ -15,11 +15,14 @@ Opening the door once the kiln has cooled is nerve wracking!
 
 # Opening the door
 
+Looks good this time!
+
 ![pots in kiln](/images/Kiln-Open.jpg)
 
 # Blue Jars
 
-Here are three jars with my studio developed glaze. 
+Here are three jars with my studio developed glaze.
+
 The blue glaze on these jars has some attractive green flecks.
 These appear on the area which has been in the hottest part of the kiln. 
 
@@ -27,20 +30,21 @@ These appear on the area which has been in the hottest part of the kiln.
 
 # My Jug (acting as a flower vase) and Three Mugs
 
-The lovely turquoise area on the left mug is caused by the combination of the other glazes.
-
 ![mugs with flowers](/images/Mugs-Flowers.jpg)
 
 # Geometric Vases
 
-These vases were built up from small triangular pieces of rolled out stoneware clay. Very time consuming!
+These vases are built up from small geometric pieces of clay. 
+
+Very time consuming!
 
 ![geometric vases](/images/Geometric-Vases.JPG)
 
 # Textured Surfaces
 
-I aim for a tactile surface to my ceramics whether the glaze is silky matt or highly textured. 
-These have a chocolate slip under the white glaze for a bit of excitement!
+I aim for a tactile surface to my ceramics whether the glaze is silky matt or highly textured.
+
+These have a chocolate slip under the glazes for a bit of excitement!
 
 ![textured pots](/images/Textured-pots.jpg)
 
