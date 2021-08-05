@@ -9,44 +9,44 @@ description: |
 ---
 The pots I make are thrown on a wheel or hand-built, sometimes a combination of both.
 
-I love to make a glaze which will move on the pot while maturing in the kiln. The difficulty is controlling the movement so that the glaze doesn't move off the pot and finish up sticking the pot to the kiln shelf. Opening the door after completing a firing is nerve wracking.
+My glazes are mostly developed in my studio. Sometimes I use slip under my glazes, some of which is dug from the garden.
+I love to make a glaze which will move on the pot but doesn't run off and stick the pot to the shelf. 
+Opening the door once the kiln has cooled is nerve wracking!
 
 # Opening the door
 
 ![pots in kiln](/images/Kiln-Open.jpg)
 
-# My Little Jars
+# Blue Jars
 
-Here are three jars with my blue-green glaze
+Here are three jars with my studio developed glaze. 
+The blue glaze on these jars has some attractive green flecks.
+These appear on the area which has been in the hottest part of the kiln. 
 
-![three jars](/images/Blue-Jars.jpg)
+![blue jars](/images/Blue-Jars.jpg)
 
-# My Glazes Enhancing My Mugs!
+# My Jug (acting as a flower vase) and Three Mugs
 
-Thrown mugs with pulled handles, glazed with my studio developed glazes. On some, the mauve glaze has reacted with the other two glazes to give the lovely turquoise and royal blue areas.
-
-![three mugs](/images/Three-Mugs.jpg)
+The lovely turquoise area on the left mug is caused by the combination of the other glazes.
 
 ![mugs with flowers](/images/Mugs-Flowers.jpg)
 
 # Geometric Vases
 
-These vases were built up from pieces of rolled out stoneware clay.
-The blue glaze was developed by me over many years.
+These vases were built up from small triangular pieces of rolled out stoneware clay. Very time consuming!
 
 ![geometric vases](/images/Geometric-Vases.JPG)
 
-# Blue Green Vase
+# Textured Surfaces
 
-This tall hand built vase has some attractive green flecks in the blue glaze. 
-These appear on the area which was in the hottest part of the kiln. 
+I aim for a tactile surface to my ceramics whether the glaze is silky matt or highly textured. 
+These have a chocolate slip under the white glaze for a bit of excitement!
 
-![blue green vase](/images/Blue-Green-Vase.jpg)
+![textured pots](/images/Textured-pots.jpg)
 
 # Wheel Thrown Bowl
 
-This bowl has a white glaze making a pattern over the shiny blue glaze. 
-The textured brick coloured area at the base is clay from our garden. The texture comes from heating it beyond its comfort zone!
+This bowl has a white glaze making an interesting pattern over the shiny blue glaze. 
 
 ![Bowl blue glaze](/images/Bowl-blue-glaze.jpg)
 
