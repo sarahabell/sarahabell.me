@@ -57,7 +57,7 @@ Polymer clay beads to enjoy wearing anytime!
 For those of you who like a matching set, here are two of a kind.
 Necklace and Bracelet to wear together for maximum impact!
 
-![fuchsia cube set](/images/Fuchsia-Cube-Set.jpg)
+![fuchsia cube set](/images/Fuchsia-Cubes.jpg)
 
 # Blue Pendant
 
