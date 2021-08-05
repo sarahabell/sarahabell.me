@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Ceramics
-image:  two-pots.jpg
+image:  Unique-Pot.jpg
 tags: featured
 permalink: /ceramics
 description: |
