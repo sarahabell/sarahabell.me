@@ -9,14 +9,12 @@ description: My Ceramics and Beads and More!
 
 ## About the show
 
+You have missed it for this year!
+
 >**Friday and Saturday, 3rd and 4th September, 2021**
->
->**Open 9 am till 5 pm.**
 >
 >**The Herb Farm, Peppard Road, Sonning Common. RG4 9NJ**
 
-A group of talented local artists, including me with my ceramics and beads, will be exhibiting and selling unique works of art. 
+A group of talented local artists, including me with my ceramics and beads, were exhibiting and selling unique works of art. 
 
-The Herb Farm itself is worth a visit and has a cafe for visitors to enjoy.
-
-Do come. You will be most welcome!
+The Herb Farm is open 10 - 4 and is worth a visit and has a cafe for visitors to enjoy. Check out their website.
