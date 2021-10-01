@@ -3,8 +3,7 @@ layout: post
 title:  Pangbourne Art Show
 date:   2021-08-28 18:30 +00h
 image:  My-Stand.JPG
-description: My Ceramics and Beads with The Red Kites
-
+description: October 30th/31st
 ---
 
 ## About the show
