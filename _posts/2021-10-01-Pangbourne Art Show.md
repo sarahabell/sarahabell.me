@@ -20,3 +20,5 @@ Another varied and interesting art show brought to you by The Red Kites Artists 
 This time including me with my ceramics and beads!
 
 The Show is open 10 - 5.
+
+The Red Kites website is at https://redkiteartistsandmakers.com/index.html
