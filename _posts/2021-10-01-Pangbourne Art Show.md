@@ -16,6 +16,7 @@ Coming soon!
 >**Pangbourne Village Hall, Station Road, Pangbourne, RG8 7AN**
 
 Another varied and interesting art show brought to you by The Red Kites Artists and Makers.
+
 This time including me with my ceramics and beads!
 
 The Show is open 10 - 5.
