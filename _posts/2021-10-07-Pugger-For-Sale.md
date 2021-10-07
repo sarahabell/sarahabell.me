@@ -19,3 +19,5 @@ Excellent condition. £2500
 Email Sarah - sarahabellme@outlook.com
 
 Wokingham, Berkshire.
+
+![pugger2](/images/Pugger-2.jpg)
