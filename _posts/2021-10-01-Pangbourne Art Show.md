@@ -2,7 +2,7 @@
 layout: post
 title:  Pangbourne Art Show
 date:   2021-08-28 18:30 +00h
-image:  My-Stand.JPG
+image:  Blue-Necklaces.jpg
 description: October 30th/31st
 ---
 
