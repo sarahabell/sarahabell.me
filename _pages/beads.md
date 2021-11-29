@@ -26,6 +26,10 @@ Here are some selected pieces:
 
 # Snowmen Decorations
 
+All individually hand made and unique.  £18 each + p&p. £2(uk price)
+
+Please email me for more information on these little cuties. 
+
 ![Snowmen All](/images/Snowmen-All.jpg)
 
 ![Earring Snowmen](/images/Earring-Snowmen.jpg)
