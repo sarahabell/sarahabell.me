@@ -18,7 +18,9 @@ My jewellery includes necklaces, pendants, bracelets and earrings. I use a varie
 
 Here are some selected pieces:
 
-# Wavy Blue Necklace
+# Blue Necklaces
+
+![blue necklaces](/images/Blue-Necklaces.jpg)
 
 ![necklace of blue wavy beads](/images/Blue-Wavy.jpg)
 
