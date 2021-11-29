@@ -34,9 +34,9 @@ Here are some selected pieces:
 
 ![necklace of purple swirl beads](/images/Purple-Swirl.jpg)
 
-# Bracelet
+# Bracelets
 
-Made on memory wire, this bracelet doesn't need a fastening. It just bounces back to its original shape when you put it on.
+Made on memory wire, these bracelets need no fastening. They just bounces back to their original shape when you put them on.
 
 ![allsorts bracelet](/images/Allsorts-Bracelet.jpg)
 
