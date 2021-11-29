@@ -26,7 +26,9 @@ Here are some selected pieces:
 
 ![Snowmen All](/images/Snowmen-All.jpg)
 
-# Choice of Earrings
+![Earring Snowmen](/images/Earring-Snowmen.jpg)
+
+# More Earrings
 
 ![earring stand](/images/Earring-Stand.jpg)
 
