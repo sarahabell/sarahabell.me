@@ -23,18 +23,23 @@ Looks good this time!
 
 Here are three jars with my studio developed glaze.
 
-The blue glaze on these jars has some attractive green flecks.
+The tactile blue glaze on these jars has some attractive green flecks.
+
 These appear on the area which has been in the hottest part of the kiln. 
 
 ![blue jars](/images/Blue-Jars.jpg)
 
-# My Jug (acting as a flower vase) and Three Mugs
+# Green and Mauve Jars
 
-![mugs with flowers](/images/Mugs-Flowers.jpg)
+These have the same smooth matte glaze but with a different colour scheme.
+
+![Green Jars](/images/Two-Jars.jpg)
 
 # Geometric Vases
 
-These vases are built up from small geometric pieces of clay. 
+Attractive Vases 
+
+- built up from rolled out clay which is cut into small geometric pieces and joined together.
 
 Very time consuming!
 
@@ -44,9 +49,13 @@ Very time consuming!
 
 I aim for a tactile surface to my ceramics whether the glaze is silky matt or highly textured.
 
-These have a chocolate slip under the glazes for a bit of excitement!
+Some of these have a chocolate slip under the glazes for a bit of excitement!
 
 ![textured pots](/images/Textured-pots.jpg)
+
+![textured pots](/images/Three-CEF.jpg)
+
+![textured mugs](/images/Mug-Group.jpg)
 
 # Wheel Thrown Bowl
 
@@ -59,4 +68,7 @@ This bowl has a white glaze making an interesting pattern over the shiny blue gl
 Making glazes and applying to my pots leaves a lot of washing up!
 
 ![washing up](/images/Washing-Up.jpg)
+
+
+
 
