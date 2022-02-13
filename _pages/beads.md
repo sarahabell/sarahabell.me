@@ -24,6 +24,8 @@ Here are some selected pieces:
 
 ![necklace of blue wavy beads](/images/Blue-Wavy.jpg)
 
+![blue discs](/images/Blue-Discs.jpg)
+
 # Flower Cane and Necklace
 
  Hand made and unique. Each cane I make comes out differently.
@@ -32,11 +34,9 @@ Here are some selected pieces:
 
 ![Flower Beads](/images/Flower-Beads.jpg)
 
-# More Earrings
+# Purple Beads
 
-![earring stand](/images/Earring-Stand.jpg)
-
-# Purple Swirl Beads
+![necklace of purple beads](/images/Purple-Sensation.jpg)
 
 ![necklace of purple swirl beads](/images/Purple-Swirl.jpg)
 
@@ -48,7 +48,7 @@ Made on memory wire, these bracelets need no fastening. They just bounces back t
 
 ![Purple bracelet](/images/Purple-Bracelet.jpg)
 
-# Different Styles
+# Different Styles of My Necklaces
 
 Polymer clay beads to enjoy wearing anytime!
 
@@ -67,3 +67,7 @@ Brighten up an outfit with this lively pendant.
 Chain measures 29.5" (75cm) approx.
 
 ![blue pendant](/images/Blue-Pendant.jpg)
+
+# A Few of My Earrings
+
+![earring stand](/images/Earring-Stand.jpg)
