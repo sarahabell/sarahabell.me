@@ -24,15 +24,13 @@ Here are some selected pieces:
 
 ![necklace of blue wavy beads](/images/Blue-Wavy.jpg)
 
-# Snowmen Decorations
+# Flower Cane and Necklace
 
-All individually hand made and unique.  £18 each + p&p. £2(uk price)
+ Hand made and unique. Each cane I make comes out differently.
 
-Please email me for more information on these little cuties. 
+![Flower Cane](/images/Flower-Cane.jpg)
 
-![Snowmen All](/images/Snowmen-All.jpg)
-
-![Earring Snowmen](/images/Earring-Snowmen.jpg)
+![Flower Beads](/images/Flower-Beads.jpg)
 
 # More Earrings
 
