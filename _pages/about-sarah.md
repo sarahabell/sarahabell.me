@@ -9,24 +9,43 @@ Hi, my name is **Sarah Abell**. I'm an artist based in Berkshire, UK.
 
 For more information, or if you would like to **visit my Wokingham studio** please [email me](mailto:sarahabellme@outlook.com)
 
-I make **ceramics** from stoneware clay and enhance them with **glazes developed in my studio**. I also make **jewellery** from my own **hand-crafted polymerclay beads**.
+I make **ceramics** from stoneware clay and enhance them with **glazes developed in my studio**. 
+
+I also make **jewellery** from my own **hand-crafted polymerclay beads**.
+
+# Hi!
+
+This is me recycling unfired clay. 
+
+It recycles well as many times as you like - until you fire it.
+
+![Hi](/images/Hi.JPG)
+
+# Glaze Testing
+
+Making your own glazes involves many hours/years of testing.
+
+Here I am making a line blend to give some idea of the result of mixing my chosen ingredients.
+
+![Glaze Mess](/images/Glaze-Mess.jpg)
+
+# Innovation
+
+I have decorated this wheel thrown stoneware pot with coils of coloured polymer clay.
+
+I love to try out new methods of creating things.  I shall do more of this!
+
+![Polymer Pot](/images/Polymer-Pot.jpg)
 
 # My Kiln and I
 
 I have just opened the door of my kiln to see what lies inside.
+
 Glaze firing temperature rises slowly to 1250º and takes a day to cool down again.
+
 Patience is required and disappointments are frequent!
 
 ![kiln and me](/images/My-Kiln-and-I.jpg)
-
-# Cliffs
-
-This is a picture made of polymer clay.
-It appeared out of my pasta machine while I was creating a pattern for some beads.
-I liked it enough to frame it and hang it in my studio. Serendipity!
-
-![cliffs](/images/Cliffs.jpg)
-
 
 ### C.V.
 
