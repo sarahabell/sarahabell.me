@@ -18,13 +18,24 @@ My jewellery includes necklaces, pendants, bracelets and earrings. I use a varie
 
 Here are some selected pieces:
 
+# Bold Pink Necklaces
+
+Striking necklaces in different lengths.
+
+![fuchsia beads](/images/Fuchsia-Beads.jpg)
+
+![Big Flowers](/images/Big-Flowers.jpg)
+
+# Dashing or Demure
+
+![Orange and Greys](/images/Orange-Beads.jpg)
+
+
 # Blue Necklaces
 
 ![blue necklaces](/images/Blue-Necklaces.jpg)
 
 ![necklace of blue wavy beads](/images/Blue-Wavy.jpg)
-
-![blue discs](/images/Blue-Discs.jpg)
 
 # Flower Cane and Necklace
 
@@ -53,13 +64,6 @@ Made on memory wire, these bracelets need no fastening. They just bounces back t
 Polymer clay beads to enjoy wearing anytime!
 
 ![three necklaces](/images/Three-Necklaces.jpg)
-
-# Fuchsia Cube Jewellery
-
-For those of you who like a matching set, here are two of a kind.
-Necklace and Bracelet to wear together for maximum impact!
-
-![fuchsia cube set](/images/Fuchsia-Cubes.jpg)
 
 # Blue Pendant
 
