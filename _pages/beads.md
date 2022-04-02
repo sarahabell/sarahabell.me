@@ -11,10 +11,9 @@ description: |
     Find more about my beads and jewellery...
 ---
 
-Polymer clay comes in an exciting range of colours which after kneading can be blended or manipulated into new and fascinating colours and patterns.  Having put all the colours together and rolled the clay into a sausage (cane), the fun bit is cutting it across the middle to see what the pattern looks like!
-My beads are made in various sizes and shapes. The beads are baked in a domestic oven before being used as the key feature in my jewellery designs.
+My jewellery includes necklaces, pendants, bracelets and earrings.
 
-My jewellery includes necklaces, pendants, bracelets and earrings. I use a variety of bought materials for stringing, fastenings and little beads to separate my hand made beads. I use sterling silver for all my earwires and will also use it for fastenings if requested.
+I make my beads in various sizes and shapes before baking and using as the key feature in my jewellery designs.
 
 Here are some selected pieces:
 
@@ -26,16 +25,16 @@ Striking necklaces in different lengths.
 
 ![Big Flowers](/images/Big-Flowers.jpg)
 
-# Dashing or Demure
+# Dashing or Demure!
 
 ![Orange and Greys](/images/Orange-Beads.jpg)
 
 
-# Blue Necklaces
+# True Blue
 
 ![blue necklaces](/images/Blue-Necklaces.jpg)
 
-![necklace of blue wavy beads](/images/Blue-Wavy.jpg)
+![necklace of blue discs](/images/Blue-Discs.jpg)
 
 # Flower Cane and Necklace
 
@@ -67,7 +66,10 @@ Polymer clay beads to enjoy wearing anytime!
 
 # Blue Pendant
 
-Brighten up an outfit with this lively pendant. 
+Just one of many of my unique pendants.
+
+Brighten up an outfit with this lively pendant.
+
 Chain measures 29.5" (75cm) approx.
 
 ![blue pendant](/images/Blue-Pendant.jpg)
