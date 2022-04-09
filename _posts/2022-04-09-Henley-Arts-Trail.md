@@ -2,7 +2,7 @@
 layout: post
 title:  Henley Arts Trail
 date:   2022-04-09 15:30 +00h
-image:  Necklace-Making.jpg
+image:  HAT.jpg
 description: April 30th-May 2nd 2022 ~ Visit Venue 19!
 
 ---
@@ -21,4 +21,4 @@ Do pay us a visit. Entry and parking are free.
 
 www.henleyartstrail.com/19-twyford-studios.html
 
-![box of beads](/images/Box-of-Beads.JPG)
+![Goblet with beads](/images/Goblet-with-Beads.jpg)
