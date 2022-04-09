@@ -3,7 +3,7 @@ layout: post
 title:  Henley Arts Trail
 date:   2022-04-09 15:30 +00h
 image:  HAT.jpg
-description: April 30th-May 2nd 2022 ~ Visit Venue 19!
+description: April 30th-May 2nd 2022 
 
 ---
 
