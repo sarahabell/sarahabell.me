@@ -1,7 +1,5 @@
-source 'https://rubygems.org'
-gem "bundler"
-gem "jekyll"
-gem "jekyll-paginate"
-gem 'jekyll-tagging'
-gem "jekyll-sitemap"
-gem "jekyll-redirect-from"
+# frozen_string_literal: true
+
+source "https://rubygems.org"
+
+gem "github-pages", group: :jekyll_plugins
