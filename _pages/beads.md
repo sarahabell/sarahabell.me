@@ -52,7 +52,7 @@ Striking necklaces in different lengths.
 
 # Bracelets
 
-Made on memory wire, these bracelets need no fastening. They just bounces back to their original shape when you put them on.
+Made on memory wire, these bracelets need no fastening. They just bounce back to their original shape when you put them on.
 
 ![allsorts bracelet](/images/Allsorts-Bracelet.jpg)
 
