@@ -15,7 +15,7 @@ I also make **jewellery** from my own **hand-crafted polymerclay beads**.
 
 # Hi!
 
-This is me recycling unfired clay. 
+Recycling clay. 
 
 It recycles well as many times as you like - until you fire it.
 
@@ -23,9 +23,9 @@ It recycles well as many times as you like - until you fire it.
 
 # Glaze Testing
 
-Making your own glazes involves many hours/years of testing.
+I develop my own glazes.
 
-Here I am making a line blend to give some idea of the result of mixing my chosen ingredients.
+Making a line blend using various proportions will give an idea of how my chosen ingredients will react.
 
 ![Glaze Mess](/images/Glaze-Mess.jpg)
 
@@ -33,17 +33,15 @@ Here I am making a line blend to give some idea of the result of mixing my chose
 
 I have decorated this wheel thrown stoneware pot with coils of coloured polymer clay.
 
-I love to try out new methods of creating things.  I shall do more of this!
+I love to try out new methods of creating things. 
 
 ![Polymer Pot](/images/Polymer-Pot.jpg)
 
 # My Kiln and I
 
-I have just opened the door of my kiln to see what lies inside.
+Opening the kiln. Always an exciting moment.
 
 Glaze firing temperature rises slowly to 1250º and takes a day to cool down again.
-
-Patience is required and disappointments are frequent!
 
 ![kiln and me](/images/My-Kiln-and-I.jpg)
 
@@ -58,7 +56,7 @@ Patience is required and disappointments are frequent!
 
 #### Past Exhibitions
 
-* Artists at Shiplake, Henley Arts Trail
+* Henley Arts Trail - Charvil Village Hall (2022) and previously with Artists at Shiplake
 * Art at the Herb Farm, Sonning Common
 * Wokingham Arts Society Exhibition, where my pots have won the Ceramic Prize for the past six years.
 * Hurst Show and Country Fair Art Show
