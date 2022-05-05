@@ -13,11 +13,11 @@ I make **ceramics** from stoneware clay and enhance them with **glazes developed
 
 I also make **jewellery** from my own **hand-crafted polymerclay beads**.
 
-# Hi!
+# Recycling clay
 
-Recycling clay. 
+I like to work my waste clay quite wet but on a plaster batt. It is easy to wedge up to a usable condition.
 
-It recycles well as many times as you like - until you fire it.
+Clay recycles well until you fire it.
 
 ![Hi](/images/Hi.JPG)
 
