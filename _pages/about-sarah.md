@@ -13,7 +13,25 @@ I make **ceramics** from stoneware clay and enhance them with **glazes developed
 
 I also make **jewellery** from my own **hand-crafted polymerclay beads**.
 
-# Recycling clay
+# How it came about
+
+After a short career as a secretary and a long career with horses I discovered the joys of clay.
+
+My enthusiasm led me to do a three year degree course at Farnham's UCA where I became interested in developing glazes. 
+
+Now in my own studio, my main interest is in creating ceramics decorated with my own studio developed glazes.
+
+~ ~ ~ ~ ~ ~ 
+
+Making beads from polymer clay began for me as a result of attending Oxford Summer School.  
+
+This clay comes in wonderfully bright colours, mostly unavailable to the glaze maker. The endless possibilities fascinate me.
+
+Designing the jewellery for my beads seems like a world away from designing ceramics but equally enjoyable.
+
+# What I do in my studio
+
+**Recycling clay**
 
 I like to work my waste clay quite wet but on a plaster batt. It is easy to wedge up to a usable condition.
 
@@ -21,7 +39,7 @@ Clay recycles well until you fire it.
 
 ![Hi](/images/Hi.JPG)
 
-# Glaze Testing
+**Glaze testing**
 
 I develop my own glazes.
 
