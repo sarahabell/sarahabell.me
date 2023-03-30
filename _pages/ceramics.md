@@ -13,11 +13,17 @@ My glazes are mostly developed in my studio. Sometimes I use slip under my glaze
 I love to make a glaze which will move on the pot but doesn't run off and stick the pot to the shelf. 
 Opening the door once the kiln has cooled is nerve wracking!
 
-# Opening the door
+# Hand Built with a Difference
 
-Looks good this time!
+I love the overall effect of the layers and the slight runs.
 
-![pots in kiln](/images/Kiln-Open.jpg)
+![three layered pots](/images/Layer-Vases.jpg)
+
+# Did The Glazes run?
+
+Yes! Looks good this time!
+
+![Moving Glazes](/images/Moving-Glazes.jpg)
 
 # Blue Jars
 
@@ -52,10 +58,6 @@ I aim for a tactile surface to my ceramics whether the glaze is silky matt or hi
 Some of these have a chocolate slip under the glazes for a bit of excitement!
 
 ![textured pots](/images/Textured-pots.jpg)
-
-![textured pots](/images/Three-CEF.jpg)
-
-![textured mugs](/images/Mug-Group.jpg)
 
 # Wheel Thrown Bowl
 
