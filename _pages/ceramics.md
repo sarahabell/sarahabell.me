@@ -25,6 +25,10 @@ Yes! Looks good this time!
 
 ![Moving Glazes](/images/Moving-Glazes.jpg)
 
+# Pots and Beads
+
+![Sea Greens](/images/Sea-Greens.jpg)
+
 # Blue Jars
 
 Here are three jars with my studio developed glaze.
@@ -42,14 +46,6 @@ Attractive Vases
 Very time consuming!
 
 ![geometric vases](/images/Geometric-Vases.JPG)
-
-# Textured Surfaces
-
-I aim for a tactile surface to my ceramics whether the glaze is silky matt or highly textured.
-
-Some of these have a chocolate slip under the glazes for a bit of excitement!
-
-![textured pots](/images/Textured-pots.jpg)
 
 # Wheel Thrown Bowl
 
