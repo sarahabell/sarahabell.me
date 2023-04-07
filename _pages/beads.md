@@ -15,7 +15,15 @@ My jewellery includes necklaces, pendants, bracelets and earrings.
 
 I make my beads in various sizes and shapes before baking and using as the key feature in my jewellery designs.
 
-Here are some selected pieces:
+# Butterfly and Daisy Beads ready for baking.
+
+![Tray of beads](/images/For-Baking.jpg)
+
+# Finished Necklaces with Bracelet and Pots
+
+![Daisies and Butterflies](/images/Daisies-and-Butterflies.jpg)
+
+Here are some more of my pieces:
 
 # Bold Pink Necklaces
 
@@ -25,14 +33,13 @@ Striking necklaces in different lengths.
 
 ![Big Flowers](/images/Big-Flowers.jpg)
 
-# Dashing or Demure!
+# Necklaces with Bamboo-style Vase
 
-![Orange and Greys](/images/Orange-Beads.jpg)
-
+![Bamboo and Necklaces](/images/Bamboo-and-Beads.jpg)
 
 # True Blue
 
-![blue necklaces](/images/Blue-Necklaces.jpg)
+![blue necklaces](/images/Blue-Tablets.jpg)
 
 ![necklace of blue discs](/images/Blue-Discs.jpg)
 
@@ -43,6 +50,14 @@ Striking necklaces in different lengths.
 ![Flower Cane](/images/Flower-Cane.jpg)
 
 ![Flower Beads](/images/Flower-Beads.jpg)
+
+# Great Greens
+
+Polymer clay beads to enjoy wearing anytime!
+
+Here are a necklace and bracelet.
+
+![Greens](/images/Greens.jpg)
 
 # Purple Beads
 
@@ -57,12 +72,6 @@ Made on memory wire, these bracelets need no fastening. They just bounce back to
 ![allsorts bracelet](/images/Allsorts-Bracelet.jpg)
 
 ![Purple bracelet](/images/Purple-Bracelet.jpg)
-
-# Different Styles of My Necklaces
-
-Polymer clay beads to enjoy wearing anytime!
-
-![three necklaces](/images/Three-Necklaces.jpg)
 
 # Blue Pendant
 
