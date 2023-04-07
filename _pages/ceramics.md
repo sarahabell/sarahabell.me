@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Ceramics
-image:  Unique-Pot.jpg
+image:  Stripy-Teardrop-Vases.jpg
 tags: featured
 permalink: /ceramics
 description: |
@@ -29,17 +29,17 @@ Yes! Looks good this time!
 
 Here are three jars with my studio developed glaze.
 
-The tactile blue glaze on these jars has some attractive green flecks.
-
-These appear on the area which has been in the hottest part of the kiln. 
+The tactile blue glaze on these jars has some attractive green flecks caused by extra heat in the kiln. 
 
 ![blue jars](/images/Blue-Jars.jpg)
 
-# Green and Mauve Jars
+# Green and Mauve Vases
 
 These have the same smooth matte glaze but with a different colour scheme.
 
-![Green Jars](/images/Two-Jars.jpg)
+I haven't made stripes before!
+
+![Green Vases](/images/Sea-Greens.jpg)
 
 # Geometric Vases
 
