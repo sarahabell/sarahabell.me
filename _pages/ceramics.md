@@ -33,14 +33,6 @@ The tactile blue glaze on these jars has some attractive green flecks caused by 
 
 ![blue jars](/images/Blue-Jars.jpg)
 
-# Green and Mauve Vases
-
-These have the same smooth matte glaze but with a different colour scheme.
-
-I haven't made stripes before!
-
-![Green Vases](/images/Sea-Greens.jpg)
-
 # Geometric Vases
 
 Attractive Vases 
