@@ -19,6 +19,10 @@ I love the overall effect of the layers and the slight runs.
 
 ![three layered pots](/images/Layer-Vases.jpg)
 
+# I liked them enough to make some more
+
+![Bamboo and cake](/images/Bamboo-and-Friend.jpg)
+
 # Did The Glazes run?
 
 Yes! Looks good this time!
