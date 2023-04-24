@@ -31,17 +31,13 @@ Striking necklaces in different lengths.
 
 ![fuchsia beads](/images/Fuchsia-Beads.jpg)
 
-![Big Flowers](/images/Big-Flowers.jpg)
-
 # Necklaces with Bamboo-style Vase
 
 ![Bamboo and Necklaces](/images/Bamboo-and-Beads.jpg)
 
-# True Blue
+# Subtle Blue 
 
 ![blue necklaces](/images/Blue-Tablets.jpg)
-
-![necklace of blue discs](/images/Blue-Discs.jpg)
 
 # Flower Cane and Necklace
 
@@ -63,15 +59,11 @@ Here are a necklace and bracelet.
 
 ![necklace of purple beads](/images/Purple-Sensation.jpg)
 
-![necklace of purple swirl beads](/images/Purple-Swirl.jpg)
+# Bracelet
 
-# Bracelets
-
-Made on memory wire, these bracelets need no fastening. They just bounce back to their original shape when you put them on.
+Made on memory wire, bracelets like these need no fastening. They just bounce back to their original shape when you put them on.
 
 ![allsorts bracelet](/images/Allsorts-Bracelet.jpg)
-
-![Purple bracelet](/images/Purple-Bracelet.jpg)
 
 # Blue Pendant
 
