@@ -13,6 +13,11 @@ I make **ceramics** from stoneware clay and enhance them with **glazes developed
 
 I also make **jewellery** from my own **hand-crafted polymerclay beads**.
 
+**Here's One of Each**
+
+![Pot and Beads](/images/Ceramic-and-Beads.jpg)
+
+
 # How it came about
 
 After a short career as a secretary and a long career with horses I discovered the joys of clay.
