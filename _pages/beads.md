@@ -63,7 +63,7 @@ Here are a necklace and bracelet.
 
 Made on memory wire, bracelets like these need no fastening. They just bounce back to their original shape when you put them on.
 
-![allsorts bracelet](/images/Allsorts-Bracelet.jpg)
+![turquoise bracelet](/images/Bracelet.jpg)
 
 # Blue Pendant
 
